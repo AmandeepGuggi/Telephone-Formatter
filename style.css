@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    margin: 2rem auto;
+}
+input{
+    padding: .3rem 0rem .3rem .3rem;
+    font-size: 1.7rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: .5rem;
+    background-color: #FBD2E0;
+    border-bottom: 3px solid #cc517a;
+    outline: #cc517a;
+    box-shadow:  10px 8px 15px 1px rgba(136, 76, 123, 0.856) 
+}
